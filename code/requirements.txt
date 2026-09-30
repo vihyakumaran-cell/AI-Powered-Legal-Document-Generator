@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+streamlit
+requests
+python-dotenv
+python-docx
+fpdf2
+Pillow
+google-genai
+python-multipart
